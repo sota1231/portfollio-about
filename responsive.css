@@ -1,0 +1,21 @@
+@media(max-width:1000px){
+    body > img{
+        display: none;
+    }
+    .res-1{
+        display: block;
+    }
+    a{
+        position: absolute;
+        top: 12%;
+        left: 75%;
+    }
+}
+@media(max-width:800px){
+    .res-2{
+        display: block;
+    }
+    .res-1{
+        display: none;
+    }
+}
