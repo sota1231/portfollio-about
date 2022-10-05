@@ -31,3 +31,9 @@ a:hover{
 .res-2{
     display: none;
 }
+.res-3 img{
+    width: 100%;
+}
+.res-3{
+    display: none;
+}
